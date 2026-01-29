@@ -45,10 +45,10 @@
 
         Base {
             bindings = <
-&kp Q  &kp W  &kp E       &kp R             &kp T        &kp Y      &kp U        &kp I      &kp O    &kp P
-&kp A  &kp S  &kp D       &hm LEFT_SHIFT F  &kp G        &kp H      &hm LSHFT J  &kp K      &kp L    &kp SEMI
-&kp Z  &kp X  &kp C       &kp V             &kp B        &kp N      &kp M        &kp COMMA  &kp DOT  &kp SLASH
-              &kp ESCAPE  &lt 1 BACKSPACE   &lt 3 SPACE  &kp ENTER  &lt 2 DEL    &kp TAB
+&kp J      &kp O       &kp U       &kp R            &kp Q          &kp F      &kp D      &kp L    &kp B  &kp G
+&kp E      &kp A       &kp I       &kp N            &kp X          &kp Y      &kp H      &kp T    &kp S  &kp C
+&kp SLASH  &kp PERIOD  &kp COMMA   &kp Z            &kp SEMICOLON  &kp K      &kp P      &kp M    &kp V  &kp W
+                       &kp ESCAPE  &lt 1 BACKSPACE  &lt 3 SPACE    &kp ENTER  &lt 2 DEL  &kp TAB
             >;
         };
 
