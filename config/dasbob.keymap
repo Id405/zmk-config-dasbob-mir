@@ -40,7 +40,7 @@
 
         Mods {
             bindings = <
-&trans        &trans        &trans            &trans          &trans  &trans  &trans  &trans  &trans  &trans
+&trans        &trans        &trans            &trans          &trans  &trans  &trans  &trans  &trans  &kp DELETE
 &sk LEFT_GUI  &sk LEFT_ALT  &sk LEFT_CONTROL  &sk LEFT_SHIFT  &trans  &trans  &trans  &trans  &trans  &trans
 &trans        &trans        &trans            &trans          &trans  &trans  &trans  &trans  &trans  &trans
                             &trans            &trans          &trans  &trans  &trans  &trans
